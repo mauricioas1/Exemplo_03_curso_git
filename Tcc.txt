@@ -8,4 +8,9 @@ Cap2
 Cap3
 Este capitulo fala sobre tal coisa neste capitulo
 Referencias
-......
+Ref 1
+Ref 2
+Ref 3
+Autor ABC
+Autor EDF
+Autor HUI
